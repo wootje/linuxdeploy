@@ -279,7 +279,6 @@
 
 
     <!-- Debian -->
-
     <string-array name="debian_suite_values" translatable="false">
         <item>oldstable</item>
         <item>stable</item>
@@ -301,7 +300,6 @@
     </string-array>
 
     <!-- Ubuntu -->
-
     <string-array name="ubuntu_suite_values" translatable="false">
         <item>precise</item>
         <item>trusty</item>
@@ -319,7 +317,6 @@
     </string-array>
 
     <!-- Kali Linux -->
-
     <string-array name="kali_suite_values" translatable="false">
         <item>kali-rolling</item>
     </string-array>
@@ -332,7 +329,6 @@
     </string-array>
 
     <!-- Fedora -->
-
     <string-array name="fedora_suite_values" translatable="false">
         <item>30</item>
     </string-array>
@@ -344,7 +340,6 @@
     </string-array>
 
     <!-- CentOS -->
-
     <string-array name="centos_suite_values" translatable="false">
         <item>7</item>
     </string-array>
@@ -356,7 +351,6 @@
     </string-array>
 
     <!-- Arch Linux -->
-
     <string-array name="archlinux_suite_values" translatable="false">
         <item>latest</item>
     </string-array>
@@ -370,7 +364,6 @@
     </string-array>
 
     <!-- Slackware -->
-
     <string-array name="slackware_suite_values" translatable="false">
         <item>14.2</item>
     </string-array>
@@ -381,7 +374,6 @@
     </string-array>
 
     <!-- Alpine Linux -->
-
     <string-array name="alpine_suite_values" translatable="false">
         <item>latest-stable</item>
         <item>edge</item>
@@ -395,7 +387,6 @@
     </string-array>
 
     <!-- Docker -->
-
     <string-array name="docker_suite_values" translatable="false">
         <item>linux</item>
     </string-array>
@@ -407,7 +398,6 @@
     </string-array>
 
     <!-- RootFS -->
-
     <string-array name="rootfs_suite_values" translatable="false" />
     <string-array name="rootfs_arch_values" translatable="false" />
 
