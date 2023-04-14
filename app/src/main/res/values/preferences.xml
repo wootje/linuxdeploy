@@ -86,6 +86,36 @@
     <string name="fb_freeze" translatable="false">none</string>
 
     <!-- Debian -->
+    <string name="debian_suite" translatable="false">bookworm</string>
+    <!-- arm -->
+    <string name="arm_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="arm_debian_arch" translatable="false">armhf</string>
+    <!-- arm_64 -->
+    <string name="arm_64_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="arm_64_debian_arch" translatable="false">arm64</string>
+    <!-- x86 -->
+    <string name="x86_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="x86_debian_arch" translatable="false">i386</string>
+    <!-- x86_64 -->
+    <string name="x86_64_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="x86_64_debian_arch" translatable="false">amd64</string>
+    
+    <!-- Debian -->
+    <string name="debian_suite" translatable="false">bullseye</string>
+    <!-- arm -->
+    <string name="arm_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="arm_debian_arch" translatable="false">armhf</string>
+    <!-- arm_64 -->
+    <string name="arm_64_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="arm_64_debian_arch" translatable="false">arm64</string>
+    <!-- x86 -->
+    <string name="x86_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="x86_debian_arch" translatable="false">i386</string>
+    <!-- x86_64 -->
+    <string name="x86_64_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
+    <string name="x86_64_debian_arch" translatable="false">amd64</string>
+    
+    <!-- Debian -->
     <string name="debian_suite" translatable="false">buster</string>
     <!-- arm -->
     <string name="arm_debian_source_path" translatable="false">http://ftp.debian.org/debian/</string>
