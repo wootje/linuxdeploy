@@ -21,6 +21,9 @@ The app is available for download in Google Play and GitHub.
 https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
+<img src="https://urlshrt.eu/donateqr"></img>
+<br>
+<br>
 
 ## Features
 
